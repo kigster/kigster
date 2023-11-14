@@ -8,8 +8,6 @@
 
 <h2>About Me</h2>
 
-<img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/bwhmb3htg5p1zsbqmtft" style="float: right; border: 5px solid black; border-radius: 15px;" border="2"></img>
-
 - 🌏 I live in San Francisco, California, USA & I often visit Melbourne, Australia where I got my degree (at [Monash University](https://www.monash.edu/)) and where my family lives.
 - 🔭 I’m currently working on the
   [rules_ruby for Bazel](https://github.com/bazelruby/rules_ruby).
