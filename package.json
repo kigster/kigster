@@ -1,0 +1,49 @@
+{
+  "name": "kigster",
+  "version": "1.0.2",
+  "description": "An npm card for Konstantin Gredeskoul",
+  "main": "./src/card.js",
+  "bin": {
+    "kigster": "./bin/kigster.js"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "node .",
+    "prepublish": "npm run lint && npm run build",
+    "lint": "eslint \"src/**\" \"bin/**\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kigster/kigster.git"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card",
+    "kigster",
+    "Konstantin Gredeskoul"
+  ],
+  "author": {
+    "name": "Konstantin Gredeskoul",
+    "email": "kigster@gmail.com",
+    "url": "https://kig.re"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kigster/kigster/issues"
+  },
+  "homepage": "https://github.com/kigster/kigster",
+  "files": [
+    "./bin/kigster.js",
+    "dist/output.txt"
+  ],
+  "devDependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.1.2",
+    "eslint": "^8.27.0",
+    "eslint-plugin-sonarjs": "^0.16.0"
+  }
+}
