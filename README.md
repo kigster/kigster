@@ -9,8 +9,7 @@
 <h2>About Me</h2>
 
 - 🌏 I live in San Francisco, California, USA & I often visit Melbourne, Australia where I got my degree (at [Monash University](https://www.monash.edu/)) and where my family lives.
-- 🔭 I’m currently working on the
-  [rules_ruby for Bazel](https://github.com/bazelruby/rules_ruby).
+- 🔭 I maintained the open source [rules_ruby for Bazel](https://github.com/bazelruby/rules_ruby), and now helping with the [canonical ruby rules](https://github.com/bazel-contrib/rules_ruby). 
 - 📫 How to reach me: [@kig](https://twitter.com/kig)
 
 <h2>Software Engineering</h2>
