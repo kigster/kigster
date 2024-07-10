@@ -18,8 +18,11 @@
 * Right now I am CTO and Co-Founder at [Made Technologies](https://made.tech)
 * Before that, I was a Principal Software Engineer for [HealthSherpa](https://healthsherpa.com).
 * Before that, I was a Staff Software Engineer at [Coinbase](https://coinbase.com/) and [Fossa](https://fossa.com).
-* In 2012-2015 I was a CTO at [Wanelo](https://wanelo.co) which was a Rails site that great 100x in 6 months, reacheed peak traffic of 300,000 RPMs at an average latency of about 100m. THere we had to horizontally shard our PostgreSQL database, use RabbitMQ and we open source all of our adapters as gems.
-
+* In 2012-2015 I was a CTO at [Wanelo](https://wanelo.co) which was a Rails site that:
+  1. Was completely rewritten from a Java/JSP prototype with 100K lines of code and no tests, to a 10K lines of a Rails app with 98% test coverage in 2 months with six people pairing full time.
+  2. Java codebase was crashing at 3K RPMs, but once we migrated to Rails, our traffic skyrocketed about 100x in six months, reaching the peak traffic of 300,000 RPMs at an average latency of about 100m.
+  3. We won TechCrunch Disrtupt and were installed on about 50% of all teenager phones.
+  4. At Wanelo we had to horizontally shard our PostgreSQL database, use RabbitMQ and we open source all of our adapters as gems.
 
 <h3>Ruby</h3>
 
