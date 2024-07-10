@@ -12,13 +12,14 @@
 - 🔭 I maintained the open source [rules_ruby for Bazel](https://github.com/bazelruby/rules_ruby), and now helping with the [canonical ruby rules](https://github.com/bazel-contrib/rules_ruby). 
 - 📫 How to reach me: [@kig](https://twitter.com/kig)
 
-<h2>Software Engineering</h2>
+<h2>Industry Experience</h2>
 
-Currently, I'm a Principal Software Engineer for [HealthSherpa](https://healthsherpa.com).
+* I've been a technical hands-on CTO and VP of Engineering at least five timnes.
+* Right now I am CTO and Co-Founder at [Made Technologies](https://made.tech)
+* Before that, I was a Principal Software Engineer for [HealthSherpa](https://healthsherpa.com).
+* Before that, I was a Staff Software Engineer at [Coinbase](https://coinbase.com/) and [Fossa](https://fossa.com).
+* In 2012-2015 I was a CTO at [Wanelo](https://wanelo.co) which was a Rails site that great 100x in 6 months, reacheed peak traffic of 300,000 RPMs at an average latency of about 100m. THere we had to horizontally shard our PostgreSQL database, use RabbitMQ and we open source all of our adapters as gems.
 
-I used to be a CTO at four separate startups, largeset of which was [Wanelo](https://wanelo.co).
-
-I was a Staff Software Engineer at [Coinbase](https://coinbase.com/) and [Fossa](https://fossa.com).
 
 <h3>Ruby</h3>
 
