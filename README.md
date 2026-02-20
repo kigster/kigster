@@ -1,14 +1,16 @@
 
-
-
 <h1 align="center">What's up, I'm Konstantin <Gredeskoul class=""></Gredeskoul></h1>
-<h4 align="center"><a href="https://twitter.com/kig" rel="me">Twitter</a> &bull; <a href="https://kig.re" rel="me">Blog</a> &bull; <a href="https://reinvent.one/talks/">Talks</a> &bull; <a href="https://dev.to/kigster" rel="me">DEV</a> &bull; <a href="https://kig.medium.com/" rel="me">Medium</a> &bull; <a href="https://www.linkedin.com/in/kigster/" rel="me">LinkedIn</a> &bull; <a href="https://stackoverflow.com/users/542553/kigster" rel="me">Stack Overflow</a> &bull; <a href="https://mastodon.social/@kigster" rel="me">Mastodon</a></h4></h1>
+<h4 align="center"><a href="https://twitter.com/kig" rel="me">Twitter</a> &bull; <a href="https://kig.re" rel="me">Blog</a> &bull; <a href="https://reinvent.one/talks/">Talks</a> &bull; <a href="https://dev.to/kigster" rel="me">DEV</a> &bull; <a href="https://kig.medium.com/" rel="me">Medium</a> &bull; <a href="https://www.linkedin.com/in/kigster/" rel="me">LinkedIn</a> &bull; <a href="https://stackoverflow.com/users/542553/kigster" rel="me">Stack Overflow</a></h4></h1>
 
 ---
 
 <h2>About Me</h2>
 
-- 🌏 I live in San Francisco, California, USA, but I often visit Melbourne, Australia, where I got my Mathematics degree (at [Monash University](https://www.monash.edu/)) and where my family lives.
+Some people love to write their own bio. I absolutely hate it.  Each of our lives is so rich and so diverse in experience that trying to stuff it into a paragraph of text feels just as unnatural as stuffing a Red Giant into your morning egg. 
+
+Well, let's get the basics:
+- Born in Ukraine, Kharkiv — yes, that city closest to the Russian border, which when I lived there had a population of 1.5M people.
+- 🌏 Now I live in San Francisco, California, USA, but I often visit Melbourne, Australia, where I got my Mathematics degree (at [Monash University](https://www.monash.edu/)) and where my parents and my sister live.
 - 🔭 I maintained the open source [rules_ruby for Bazel](https://github.com/bazelruby/rules_ruby), and now helping with the [canonical ruby rules](https://github.com/bazel-contrib/rules_ruby). 
 - 📫 How to reach me: [@kig](https://twitter.com/kig)
 
