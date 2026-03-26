@@ -30,11 +30,12 @@ I like hard problems with real constraints:
 
 ## What I Do
 
-- Build and scale backend systems with strong reliability and observability
+- Build and scale large distributed backend systems with strong reliability and observability baked in
 - Design production AI workflows around real business use cases
-- Improve CI/CD, onboarding, deployment safety, and operational simplicity
-- Lead architecture while staying close to the code
-- Turn messy systems into maintainable ones
+- Improve CI/CD, onboarding, deployment safety, developer productivity, and operational simplicity
+- Comfortable in all levels of abstractions, from back-of-the-napkin architecture, to nitty-gritty code details.
+- Turn messy systems into maintainable ones, and have successfully rewritten systems from scratch under two months.
+- Practice 90%+ test coverage and will convince you to do the same.
 
 ---
 
