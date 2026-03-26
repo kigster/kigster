@@ -96,6 +96,9 @@ A few projects that reflect the range of work I enjoy:
 - [cmake-project-template](https://github.com/kigster/cmake-project-template)  
   C++ / CMake starter project with sensible defaults
 
+- [bashmatic](https://bashmatic.dev)  
+  Bashmatic — 900+ DSL functions written in BASH for readable script feedback, terminal graphics, headers, and more.
+
 You can also browse the full collection of public gems written in Ruby here:
 - [RubyGems profile](https://rubygems.org/profiles/kigster)
 
@@ -112,8 +115,8 @@ I write and speak about:
 - applied AI systems
 
 Some links:
-- [Talks](https://reinvent.one/talks/)
-- [Blog](https://kig.re)
+- [Conference Talks](https://reinvent.one/#speaking)
+- [Tech Blog](https://kig.re)
 - [SlideShare](https://www.slideshare.net/kigster/)
 
 ---
@@ -122,17 +125,14 @@ Some links:
 
 Originally from Kharkiv, Ukraine. Now based in the San Francisco Bay Area.
 
-I studied mathematics and statistics, which permanently damaged my tolerance for fuzzy thinking.
+I graduated Suma Cum Laude from [Monash University](https://monash.edu), majoring in pure mathematics and applied statistics, which permanently damaged my tolerance for fuzzy thinking.
 
 ---
 
 ## Elsewhere
 
-- [Website](https://kig.re)
+- [Agentica Group](https://agentica.group/) — parent company of my [consulting one](https://reinvent.one)
 - [LinkedIn](https://www.linkedin.com/in/kigster/)
-- [RubyGems](https://rubygems.org/profiles/kigster)
-- [Talks](https://reinvent.one/talks/)
-- [GitHub](https://github.com/kigster)
 
 ---
 
