@@ -2,11 +2,12 @@
 <h3 align="center">Staff / Principal Software Engineer • AI Systems • Distributed Architecture • Ruby • PostgreSQL</h3>
 
 <p align="center">
-  <a href="https://kig.re">Website</a> •
+  <a href="https://kig.re">Blog</a> •
+  <a href="https://reinvent.one">Consulting</a> •
   <a href="https://www.linkedin.com/in/kigster/">LinkedIn</a> •
   <a href="https://github.com/kigster">GitHub</a> •
   <a href="https://rubygems.org/profiles/kigster">RubyGems</a> •
-  <a href="https://reinvent.one/talks/">Talks</a> •
+  <a href="https://reinvent.one/#speaking">Talks</a> •
   <a href="https://slideshare.net/kigster/">SlideShare</a>
 </p>
 
@@ -62,12 +63,16 @@ I like hard problems with real constraints:
 - Distributed systems and fault tolerance
 - Developer tooling and build systems
 - Ruby, Python, TypeScript, C/C++
+- Gaming Algorithms, Mini-Max, Alpha Beta Pruning
 
 ---
 
 ## Open Source
 
 A few projects that reflect the range of work I enjoy:
+
+- [simple-feed](https://github.com/kigster/gomoku-ansi-c)  
+  ANSI-C based game engine for 5-in-a-row (or [Gomoku](https://en.wikipedia.org/wiki/Gomoku)) that runs in a TTY terminal and you can play using arrow keys, space and ENTER. Or you can use the networked version of it which provides ReactJS frontend to the C99/HTTPD backend via JSON API. You can play the game here: [app.gomoku.games](https://app.gomoku.games)
 
 - [simple-feed](https://github.com/kigster/simple-feed)  
   Redis-backed social feed architecture with constant read-time characteristics
