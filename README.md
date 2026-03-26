@@ -1,3 +1,9 @@
+<blockquote align="right">
+  <h2><i>I build systems that survive exponential growth, handle ambiguity, and are resilient to human optimism.</i></h2>
+  <p>-- KG.</p>
+</blockquote>
+
+
 <h1 align="center">Konstantin Gredeskoul</h1>
 <h3 align="center">Staff / Principal Software Engineer • AI Systems • Distributed Architecture • Ruby • PostgreSQL</h3>
 
@@ -133,9 +139,3 @@ I graduated Suma Cum Laude from [Monash University](https://monash.edu), majorin
 
 - [Agentica Group](https://agentica.group/) — parent company of my [consulting one](https://reinvent.one)
 - [LinkedIn](https://www.linkedin.com/in/kigster/)
-
----
-
-<p align="center">
-  <h2>I build systems that survive exponential growth, handle ambiguity, and are resilient to human optimism.</h2>
-</p>
