@@ -1,11 +1,11 @@
 <blockquote align="right">
-  <h2><i>I build systems that survive exponential growth, handle ambiguity, and are resilient to human optimism.</i></h2>
+  <strong><i>I build systems that survive exponential growth, handle ambiguity, and are resilient to human optimism.</i></strong>
   <p>-- KG.</p>
 </blockquote>
 
 
 <h1 align="center">Konstantin Gredeskoul</h1>
-<h3 align="center">Staff / Principal Software Engineer • AI Systems • Distributed Architecture • Ruby • PostgreSQL</h3>
+<h3 align="center">Staff / Principal Software Engineer • AI Systems • Distributed Architecture • Ruby • Python • TypeScript • PostgreSQL</h3>
 
 <p align="center">
   <a href="https://kig.re/resume">Resume</a> •
@@ -22,7 +22,7 @@
 
 ## About Me
 
-I’m a hands-on Staff / Principal-level software engineer and former CTO who builds reliable, scalable production systems.
+I’m a life-long coder, with a diverse career, who is currently a hands-on Staff / Principal-level software engineer and former CTO who builds and delivers to production reliable, scalable, and fault tolerant systems.
 
 My background spans distributed systems, PostgreSQL, Ruby/Rails, infrastructure, developer productivity, and, more recently, applied AI systems: retrieval pipelines, eval harnesses, production automation, and embedding-based services.
 
@@ -85,10 +85,10 @@ A few projects that reflect the range of work I enjoy:
 - [gomoku-ansi-c](https://github.com/kigster/gomoku-ansi-c)  
   ANSI-C-based game engine for 5-in-a-row (or [Gomoku](https://en.wikipedia.org/wiki/Gomoku)) that runs in a TTY terminal, and you can play using arrow keys. 
   
-  Or you can use the networked version running on [Google Cloud Run](https://docs.cloud.google.com/run/docs), which offers a ReactJS frontend to the C99/HTTPD backend via JSON API. You can play the game here: [app.gomoku.games](https://app.gomoku.games)
+  Or, you can use the online version running on [Google Cloud Run](https://docs.cloud.google.com/run/docs), which offers a ReactJS frontend talking JSON API to FastAPI Python server with PostgreSQL connectivity, which proxies game moves to q cluster of stateless single-threaded C99/HTTPD backends behind Envoy reverse proxy. Game API includes the entiee game state in the JSON hash. You can play the game here: [app.gomoku.games](https://app.gomoku.games)
 
 - [simple-feed](https://github.com/kigster/simple-feed)  
-  Redis-backed social feed architecture similar to Twitter, with O(1) feed read-time property
+  Redis-backed social feed architecture similar to Twitter, with O(1) feed read-time property. scales to tens of millions of users.
 
 - [colored2](https://github.com/kigster/colored2)  
   Terminal color support for Ruby
