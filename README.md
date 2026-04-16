@@ -14,7 +14,6 @@
   <a href="https://www.linkedin.com/in/kigster/">LinkedIn</a> •
   <a href="https://github.com/kigster">GitHub</a> •
   <a href="https://rubygems.org/profiles/kigster">RubyGems</a> •
-  <a href="https://reinvent.one/#speaking">Talks</a> •
   <a href="https://slideshare.net/kigster/">SlideShare</a>
 </p>
 
@@ -22,7 +21,7 @@
 
 ## About Me
 
-I’m a life-long coder, with a diverse career, who is currently a hands-on Staff / Principal-level software engineer and former CTO who builds and delivers to production reliable, scalable, and fault tolerant systems.
+I’m a lifelong coder, with a diverse career, who is currently a hands-on Staff / Principal-level software engineer and former CTO who builds and delivers to production reliable, scalable, and fault-tolerant systems.
 
 My background spans distributed systems, PostgreSQL, Ruby/Rails, infrastructure, developer productivity, and, more recently, applied AI systems: retrieval pipelines, eval harnesses, production automation, and embedding-based services.
 
@@ -41,7 +40,7 @@ I like hard problems with real constraints:
 - Improve CI/CD, onboarding, deployment safety, developer productivity, and operational simplicity
 - Comfortable in all levels of abstractions, from back-of-the-napkin architecture, to nitty-gritty code details.
 - Turn messy systems into maintainable ones, and have successfully rewritten systems from scratch under two months.
-- Practice 90%+ test coverage and will convince you to do the same.
+- Practice 90%+ test coverage and it will convince you to do the same.
 
 ---
 
@@ -80,12 +79,14 @@ I like hard problems with real constraints:
 
 ## Open Source
 
-A few projects that reflect the range of work I enjoy:
+A few projects that reflect the range of work I enjoy (the top ones are most recent):
+
+- [inquirex](https://github.com/inquirex) — A DSL for building lead qualification forms that gather non-sensitive data, forms that can branch, skip irrelevant questions, compute running totals (such as price of service), and integrate with an LLM to allow the user to describe their relevant situation in their own words, from which LLM extracts structured answers, and skips them later on. The gems are all open source, but they are the basis for the soon-to-be-launched SaaS service @ [qualified.at](https://qualified.at).
 
 - [gomoku-ansi-c](https://github.com/kigster/gomoku-ansi-c)  
   ANSI-C-based game engine for 5-in-a-row (or [Gomoku](https://en.wikipedia.org/wiki/Gomoku)) that runs in a TTY terminal, and you can play using arrow keys. 
   
-  Or, you can use the online version running on [Google Cloud Run](https://docs.cloud.google.com/run/docs), which offers a ReactJS frontend talking JSON API to FastAPI Python server with PostgreSQL connectivity, which proxies game moves to q cluster of stateless single-threaded C99/HTTPD backends behind Envoy reverse proxy. Game API includes the entiee game state in the JSON hash. You can play the game here: [app.gomoku.games](https://app.gomoku.games)
+  Or, you can use the online version running on [Google Cloud Run](https://docs.cloud.google.com/run/docs), which offers a ReactJS frontend talking JSON API to a FastAPI Python server with PostgreSQL connectivity, which proxies game moves to a cluster of stateless single-threaded C99/HTTPD backends behind Envoy reverse proxy. Game API includes the entire game state in the JSON hash. You can play the game here: [app.gomoku.games](https://app.gomoku.games)
 
 - [simple-feed](https://github.com/kigster/simple-feed)  
   Redis-backed social feed architecture similar to Twitter, with O(1) feed read-time property. scales to tens of millions of users.
