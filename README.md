@@ -76,6 +76,43 @@ I like hard problems with real constraints:
 - Hardware, ESP32, Arduino, Raspberry PI, and more.
 
 ---
+## Wrting
+
+<ul class="post-index">
+  <li><span><a href="https://kig.re/2026/07/29/qualified-at-is-live.html">Qualified.at Is Live: When You Over-Engineer a Form, the Least You Can Do is Launch the Damn Site...</a> <span class="post-cat">AI</span></span><span class="post-date">2026-07-29</span></li>
+  <li><span><a href="https://kig.re/2026/07/17/dns-with-dnsmadeeasy.html">The silent genius of the DNS protocol — the story of my life.</a> <span class="post-cat">Open Source</span></span><span class="post-date">2026-07-17</span></li>
+  <li><span><a href="https://kig.re/2026/07/11/ruby-talk-about-deterministic-meets-probablistic.html">Deterministic Meets Probabilistic: How I Solved Forms by Writing Four Ruby Gems and Made my Wife Happy</a> <span class="post-cat">AI</span></span><span class="post-date">2026-07-11</span></li>
+  <li><span><a href="https://kig.re/2026/07/08/svg2og-mermaid-to-omnigraffle-with-ai.html">How I Shipped a Swift CLI in an Hour, with Tests &amp; CI. My First Ever Swift.</a> <span class="post-cat">AI</span></span><span class="post-date">2026-07-08</span></li>
+  <li><span><a href="https://kig.re/2026/06/28/sopsy-secrets-in-git-secure-enclave.html">Sopsy: Secrets in Git, Sealed by the Secure Enclave</a> <span class="post-cat">Open Source</span></span><span class="post-date">2026-06-28</span></li>
+  <li><span><a href="https://kig.re/2026/06/22/writing-evals-for-ai-powered-apps.html">Evals: The Unit Tests for the Non-Deterministic Parts of Your App</a> <span class="post-cat">AI</span></span><span class="post-date">2026-06-23</span></li>
+  <li><span><a href="https://kig.re/2024/12/06/understanding-terraform.html">Evaluating Terraform for DevOps Engineers</a> <span class="post-cat">Software</span></span><span class="post-date">2024-12-06</span></li>
+  <li><span><a href="https://kig.re/2021/06/02/comparing-samsung-x5-and-sandisk-extreme-pro-ssds.html">Ultra-Fast External SSD Drives: Samsung X5 vs SanDisk Extreme Pro V2</a> <span class="post-cat">Hardware</span></span><span class="post-date">2021-06-02</span></li>
+  <li><span><a href="https://kig.re/2021/01/24/is-rails-still-relevant-today-in-2021.html">Yes! It's 2021, and Ruby 3.0, and Ruby on Rails 6.1 are alive and thriving. Are you?</a> <span class="post-cat">Essays</span></span><span class="post-date">2021-01-24</span></li>
+  <li><span><a href="https://kig.re/2020/09/11/turbo-agile-simplified-scrum-pivotal-process.html">Turbo Agile™: Optimizing Efficiency of the Engineering Process for Maximum Velocity.</a> <span class="post-cat">Essays</span></span><span class="post-date">2020-09-11</span></li>
+  <li><span><a href="https://kig.re/2020/09/07/writing-cli-tools-ruby-migrating-github-issues-to-pivotal-tracker.html">How to Write Awesome CLI tools in Ruby and test them with RSpec and Aruba</a> <span class="post-cat">Software</span></span><span class="post-date">2020-09-07</span></li>
+  <li><span><a href="https://kig.re/2020/06/01/ruby-concurrency-problems.html">Test your Understanding of Ruby Concurrency</a> <span class="post-cat">Software</span></span><span class="post-date">2020-06-01</span></li>
+  <li><span><a href="https://kig.re/2020/03/21/building-intellij-bazel-plugin.html">Building IntelliJ Bazel Plugin from Sources</a> <span class="post-cat">Software</span></span><span class="post-date">2020-03-21</span></li>
+  <li><span><a href="https://kig.re/2018/09/20/c++-newbie-tour-how-to-get-started-with-c++-on-mac-osx.html">C++ Newbie Tour: Getting Started with C++ on Mac OSX</a> <span class="post-cat">Software</span></span><span class="post-date">2018-09-20</span></li>
+  <li><span><a href="https://kig.re/2018/05/15/aws-ebs-c5-read-only-file-system.html">C5 class instance on EC2: cannot create file: Read-only file system</a> <span class="post-cat">Production</span></span><span class="post-date">2018-05-15</span></li>
+  <li><span><a href="https://kig.re/2017/03/10/dead-simple-encryption-with-sym.html">Dead Simple Encryption with Sym</a> <span class="post-cat">Open Source</span></span><span class="post-date">2017-03-10</span></li>
+  <li><span><a href="https://kig.re/2017/02/19/feeding-frenzy-with-simple-feed--activity-feed-ruby-gem.html">Add a Social Activity Feed for your Site in Minutes with the simple-feed Ruby Gem</a> <span class="post-cat">Open Source</span></span><span class="post-date">2017-02-19</span></li>
+  <li><span><a href="https://kig.re/2016/05/06/building-scalable-performant-and-cheap-distributed-applications-part-1.html">Building Scalable Performant And Cheap Distributed Applications Part 1</a> <span class="post-cat">Production</span></span><span class="post-date">2016-05-06</span></li>
+  <li><span><a href="https://kig.re/2016/04/07/mixmax-and-my-first-nodejs-app.html">Mixmax And My First Nodejs App.</a> <span class="post-cat">Software</span></span><span class="post-date">2016-04-07</span></li>
+  <li><span><a href="https://kig.re/2015/11/28/scaling-web-applications-on-postgresql-a-walkthrough-presentation.html">Scaling Web Applications On Postgresql A Walkthrough Presentation</a> <span class="post-cat">Production</span></span><span class="post-date">2015-11-28</span></li>
+  <li><span><a href="https://kig.re/2015/11/22/serial-console-hacks-with-arduino.html">Serial Console Hacks With Arduino</a> <span class="post-cat">Hardware</span></span><span class="post-date">2015-11-22</span></li>
+  <li><span><a href="https://kig.re/2014/12/31/how-to-use-arduino-nano-mini-pro-with-CH340G-on-mac-osx-yosemite.html">How To Use Arduino Nano Mini Pro With CH340G On Mac Osx Yosemite</a> <span class="post-cat">Hardware</span></span><span class="post-date">2014-12-31</span></li>
+  <li><span><a href="https://kig.re/2014/11/21/announcing-laser-cutter-makeabox-dot-io.html">Announcing Laser Cutter and MakeABox.IO</a> <span class="post-cat">Open Source</span></span><span class="post-date">2014-11-21</span></li>
+  <li><span><a href="https://kig.re/2014/10/12/borat-bathroom-occupancy-wireless-detection-and-notification-with-arduino.html">BORAT: Bathroom Occupancy Remote Awareness Technology with Arduino</a> <span class="post-cat">Hardware</span></span><span class="post-date">2014-10-12</span></li>
+  <li><span><a href="https://kig.re/2014/08/02/arduino-ide-alternatives.html">Arduino IDE Alternatives</a> <span class="post-cat">Hardware</span></span><span class="post-date">2014-08-02</span></li>
+  <li><span><a href="https://kig.re/2014/07/18/back-seat-driver-autonomous-robot-maneuvering.html">BackSeat Driver: Autonomous Vehicle Library for Arduino</a> <span class="post-cat">Hardware</span></span><span class="post-date">2014-07-18</span></li>
+  <li><span><a href="https://kig.re/2014/03/21/12-step-program-for-scaling-web-applications-on-postgresql.html">Twelve Step Program For Scaling Web Applications On PostgreSQL</a> <span class="post-cat">Production</span></span><span class="post-date">2014-03-21</span></li>
+  <li><span><a href="https://kig.re/2013/08/05/detangling-business-logic-in-rails-apps-with-poro-events-and-observers.html">Detangling Business Logic in Rails Apps with PORO Events and Observers</a> <span class="post-cat">Software</span></span><span class="post-date">2013-08-05</span></li>
+  <li><span><a href="https://kig.re/2013/02/13/high-read-write-performance-postgres-on-joyent-cloud.html">How to configure PostgreSQL for very high read/write throughput</a> <span class="post-cat">Production</span></span><span class="post-date">2013-02-13</span></li>
+  <li><span><a href="https://kig.re/2013/02/05/the-case-for-vertical-sharding.html">The Case For Vertical Sharding</a> <span class="post-cat">Production</span></span><span class="post-date">2013-02-05</span></li>
+  <li><span><a href="https://kig.re/2012/09/14/the-big-switch-how-we-rebuilt-wanelo-from-scratch-and-lived-to-tell-about-it.html">The Big Switch How We Rebuilt Wanelo From Scratch And Lived To Tell About It</a> <span class="post-cat">Production</span></span><span class="post-date">2012-09-14</span></li>
+</ul>
+
+---
 
 ## Open Source
 
