@@ -3,9 +3,8 @@
   <p>-- KG.</p>
 </blockquote>
 
-
+<h2 align="center">Co-Founder, 4xCTO, Currentlhy fundraising for a finbtech/tax tech Stealth Startup • Applied AI Systems • Distributed Architecture • Disaster Recovery • Failures Modes • Rapi Diagnostics of Digtrib8gtdd9uRuby • Python • TypeScript • PostgreSQL</h2>
 <h1 align="center">Konstantin Gredeskoul</h1>
-<h3 align="center">Staff / Principal Software Engineer • AI Systems • Distributed Architecture • Ruby • Python • TypeScript • PostgreSQL</h3>
 
 <p align="center">
   <a href="https://kig.re/resume">Resume</a> •
@@ -79,14 +78,14 @@ I like hard problems with real constraints:
 ## Wrting
 
 <ul class="post-index">
-  <li><span><a href="https://kig.re/2026/07/29/qualified-at-is-live.html">Qualified.at Is Live: When You Over-Engineer a Form, the Least You Can Do is Launch the Damn Site...</a> <span class="post-cat">AI</span></span><span class="post-date">2026-07-29</span></li>
-  <li><span><a href="https://kig.re/2026/07/17/dns-with-dnsmadeeasy.html">The silent genius of the DNS protocol — the story of my life.</a> <span class="post-cat">Open Source</span></span><span class="post-date">2026-07-17</span></li>
-  <li><span><a href="https://kig.re/2026/07/11/ruby-talk-about-deterministic-meets-probablistic.html">Deterministic Meets Probabilistic: How I Solved Forms by Writing Four Ruby Gems and Made my Wife Happy</a> <span class="post-cat">AI</span></span><span class="post-date">2026-07-11</span></li>
-  <li><span><a href="https://kig.re/2026/07/08/svg2og-mermaid-to-omnigraffle-with-ai.html">How I Shipped a Swift CLI in an Hour, with Tests &amp; CI. My First Ever Swift.</a> <span class="post-cat">AI</span></span><span class="post-date">2026-07-08</span></li>
-  <li><span><a href="https://kig.re/2026/06/28/sopsy-secrets-in-git-secure-enclave.html">Sopsy: Secrets in Git, Sealed by the Secure Enclave</a> <span class="post-cat">Open Source</span></span><span class="post-date">2026-06-28</span></li>
-  <li><span><a href="https://kig.re/2026/06/22/writing-evals-for-ai-powered-apps.html">Evals: The Unit Tests for the Non-Deterministic Parts of Your App</a> <span class="post-cat">AI</span></span><span class="post-date">2026-06-23</span></li>
+  <li><span><a href="https://kig.re/2026/07/17/dns-with-dnsmadeeasy.html">The silent genius of the DNS protocol — the story of my life.</a> <span class="post-cat">Open Source</span></span> <span class="post-date">2026-07-17</span></li>
+  <li><span><a href="https://kig.re/2026/07/11/ruby-talk-about-deterministic-meets-probablistic.html">Deterministic Meets Probabilistic: How I Solved Forms by Writing Four Ruby Gems and Made my Wife Happy</a> <span class="post-cat">AI</span></span> <span class="post-date">2026-07-11</span></li>
+  <li><span><a href="https://kig.re/2026/07/29/qualified-at-is-live.html">Qualified.at Is Live: When You Over-Engineer a Form, the Least You Can Do is Launch the Damn Site...</a> <span class="post-cat">AI</span></span> <span class="post-date">2026-07-29</span></li>
+  <li><span><a href="https://kig.re/2026/07/08/svg2og-mermaid-to-omnigraffle-with-ai.html">How I Shipped a Swift CLI in an Hour, with Tests &amp; CI. My First Ever Swift.</a> <span class="post-cat">AI</span></span> <span class="post-date">2026-07-08</span></li>
+  <li><span><a href="https://kig.re/2026/06/28/sopsy-secrets-in-git-secure-enclave.html">Sopsy: Secrets in Git, Sealed by the Secure Enclave</a> <span class="post-cat">Open Source</span></span> <span class="post-date">2026-06-28</span></li>
+  <li><span><a href="https://kig.re/2026/06/22/writing-evals-for-ai-powered-apps.html">Evals: The Unit Tests for the Non-Deterministic Parts of Your App</a> <span class="post-cat">AI</span></span> <span class="post-date">2026-06-23</span></li>
   <li><span><a href="https://kig.re/2024/12/06/understanding-terraform.html">Evaluating Terraform for DevOps Engineers</a> <span class="post-cat">Software</span></span><span class="post-date">2024-12-06</span></li>
-  <li><span><a href="https://kig.re/2021/06/02/comparing-samsung-x5-and-sandisk-extreme-pro-ssds.html">Ultra-Fast External SSD Drives: Samsung X5 vs SanDisk Extreme Pro V2</a> <span class="post-cat">Hardware</span></span><span class="post-date">2021-06-02</span></li>
+  <li><span><a href="https://kig.re/2021/06/02/comparing-samsung-x5-and-sandisk-extreme-pro-ssds.html">Ultra-Fast External SSD Drives: Samsung X5 vs SanDisk Extreme Pro V2</a> <span class="post-cat">Hardware</span></span> <span class="post-date">2021-06-02</span></li>
   <li><span><a href="https://kig.re/2021/01/24/is-rails-still-relevant-today-in-2021.html">Yes! It's 2021, and Ruby 3.0, and Ruby on Rails 6.1 are alive and thriving. Are you?</a> <span class="post-cat">Essays</span></span><span class="post-date">2021-01-24</span></li>
   <li><span><a href="https://kig.re/2020/09/11/turbo-agile-simplified-scrum-pivotal-process.html">Turbo Agile™: Optimizing Efficiency of the Engineering Process for Maximum Velocity.</a> <span class="post-cat">Essays</span></span><span class="post-date">2020-09-11</span></li>
   <li><span><a href="https://kig.re/2020/09/07/writing-cli-tools-ruby-migrating-github-issues-to-pivotal-tracker.html">How to Write Awesome CLI tools in Ruby and test them with RSpec and Aruba</a> <span class="post-cat">Software</span></span><span class="post-date">2020-09-07</span></li>
