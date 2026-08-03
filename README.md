@@ -3,7 +3,7 @@
   <p>-- KG.</p>
 </blockquote>
 
-<h2 align="center">Co-Founder, 4xCTO, Currentlhy fundraising for a finbtech/tax tech Stealth Startup • Applied AI Systems • Distributed Architecture • Disaster Recovery • Failures Modes • Rapi Diagnostics of Digtrib8gtdd9uRuby • Python • TypeScript • PostgreSQL</h2>
+<h2 align="center">Co-Founder, 4xCTO, Currentlhy fundraising for a fin-tech/tax tech Stealth Startup • Applied AI Systems • Distributed Architecture • Disaster Recovery • Failures Modes • Rapi Diagnostics of Digtrib8gtdd9uRuby • Python • TypeScript • PostgreSQL</h2>
 <h1 align="center">Konstantin Gredeskoul</h1>
 
 <p align="center">
