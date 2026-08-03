@@ -21,7 +21,7 @@
 
 ## About Me
 
-I’m a lifelong coder, with a diverse career, who is currently a hands-on Staff / Principal-level software engineer and former CTO who builds and delivers to production reliable, scalable, and fault-tolerant systems.
+I’m a lifelong coder with a diverse career, currently a hands-on Staff/Principal-level software engineer and former CTO who builds and delivers reliable, scalable, fault-tolerant systems to production.
 
 My background spans distributed systems, PostgreSQL, Ruby/Rails, infrastructure, developer productivity, and, more recently, applied AI systems: retrieval pipelines, eval harnesses, production automation, and embedding-based services.
 
@@ -38,9 +38,9 @@ I like hard problems with real constraints:
 - Build and scale large distributed backend systems with strong reliability and observability baked in
 - Design production AI workflows around real business use cases
 - Improve CI/CD, onboarding, deployment safety, developer productivity, and operational simplicity
-- Comfortable in all levels of abstractions, from back-of-the-napkin architecture, to nitty-gritty code details.
-- Turn messy systems into maintainable ones, and have successfully rewritten systems from scratch under two months.
-- Practice 90%+ test coverage and it will convince you to do the same.
+- Comfortable in all levels of abstraction, from back-of-the-napkin architecture to nitty-gritty code details.
+- Turn messy systems into maintainable ones, and have successfully rewritten systems from scratch in under two months.
+- Practice 90%+ test coverage, and it will convince you to do the same.
 
 ---
 
@@ -71,7 +71,7 @@ I like hard problems with real constraints:
 - Ruby, Python, TypeScript, C/C++, BASH, Rust
 - Distributed systems, with high availability, fault tolerance, and auto-healing architectures
 - Developer tooling, automated onboarding, and build systems
-- Gaming Algorithms, Mini-Max, Alpha Beta Pruning
+- Gaming Algorithms, Minimax, Alpha-Beta pruning
 - Networking Systems, CISCO routers, VLANs, etc.
 - Hardware, ESP32, Arduino, Raspberry PI, and more.
 
@@ -89,12 +89,16 @@ A few projects that reflect the range of work I enjoy (the top ones are most rec
   Or, you can use the online version running on [Google Cloud Run](https://docs.cloud.google.com/run/docs), which offers a ReactJS frontend talking JSON API to a FastAPI Python server with PostgreSQL connectivity, which proxies game moves to a cluster of stateless single-threaded C99/HTTPD backends behind Envoy reverse proxy. Game API includes the entire game state in the JSON hash. You can play the game here: [app.gomoku.games](https://app.gomoku.games)
 
 - [simple-feed](https://github.com/kigster/simple-feed)  
-  Redis-backed social feed architecture similar to Twitter, with O(1) feed read-time property. scales to tens of millions of users.
+  Redis-backed social feed architecture similar to Twitter, with O(1) feed read-time property. Scales to tens of millions of users.
 
 - [colored2](https://github.com/kigster/colored2)  
   Terminal color support for Ruby
 
-- [sym](https://github.com/kigster/sym)  
+- [sopsy](https://github.com/kigster/sopsy)  
+  Rust-based wrapper around SOPS, age, and age-plugin-he, which trivially consolidates your dev secrets into `.env. encrypted` and pushes to git. Now, the killer feature is   not just that it encrypts but that it mints the private keys in MacBook Enclave, a secure chip from which nothing can be taken out ever; you unlock it with your thumb.
+  The second killer feature is the fact that it's a chain of individuals with their own private keys, and if you want to join it, you request that you join
+
+- [sym](https://github.com/kigster/sym)   in long after active member system review
   Symmetric encryption via CLI and Ruby API
 
 - [puma-daemon](https://github.com/kigster/puma-daemon)  
@@ -105,6 +109,9 @@ A few projects that reflect the range of work I enjoy (the top ones are most rec
 
 - [bashmatic](https://bashmatic.dev)  
   Bashmatic — 900+ DSL functions written in BASH for readable script feedback, terminal graphics, headers, and more.
+
+- [inquirex Family of Gems and NPMJS modules](https://github.com/inquirex)  
+  A series of MIT-licensed modules for creating sophisticated forms that mulitple rendering formats such as Web, TUI, and suppost a number of LLM keywords.
 
 You can also browse the full collection of public gems written in Ruby here:
 - [RubyGems profile](https://rubygems.org/profiles/kigster)
@@ -122,8 +129,9 @@ I write and speak about:
 - applied AI systems
 
 Some links:
-- [Conference Talks](https://reinvent.one/#speaking)
-- [Tech Blog](https://kig.re)
+- [Inquirex, and what's wrong with today's [https://kig.re/speaking?talk=2026.inquirex](https://kig.re/speaking?talk=2026.inquirex)
+- [Conference Talks](https://reinvent.one/#speaking) 
+- [Tech Blog](https://kig.re)d
 - [SlideShare](https://www.slideshare.net/kigster/)
 
 ---
