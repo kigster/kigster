@@ -165,10 +165,11 @@ I write and speak about:
 - applied AI systems
 
 Some links:
-- [Inquirex, and what's wrong with today's [https://kig.re/speaking?talk=2026.inquirex](https://kig.re/speaking?talk=2026.inquirex)
-- [Conference Talks](https://reinvent.one/#speaking) 
-- [Tech Blog](https://kig.re)d
+- [Inquirex](https://github.com/inquirex), and what's wrong with today's [https://kig.re/speaking?talk=2026.inquirex](https://kig.re/speaking?talk=2026.inquirex)
+- [Conference Talks](https://kig.re/speaking) 
+- [Tech Blog](https://kig.re)
 - [SlideShare](https://www.slideshare.net/kigster/)
+- [LinkedIn](link)
 
 ---
 
