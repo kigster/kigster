@@ -3,7 +3,8 @@
   <p>-- KG.</p>
 </blockquote>
 
-<h2 align="center">Co-Founder, 4xCTO, Currentlhy fundraising for a fin-tech/tax tech Stealth Startup • Applied AI Systems • Distributed Architecture • Disaster Recovery • Failures Modes • Rapi Diagnostics of Digtrib8gtdd9uRuby • Python • TypeScript • PostgreSQL</h2>
+<h3 align="center">Co-Founder, 4xCTO • Applied AI Systems • Distributed Architecture • Disaster Recovery • Failures Modes • Rapid Diagnostics of Distributed Systems • Python • TypeScript • PostgreSQL • Vector Search • Agentic Software Factories that run on auto pilot</h2>
+
 <h1 align="center">Konstantin Gredeskoul</h1>
 
 <p align="center">
@@ -20,15 +21,15 @@
 
 * <https://makeabox.io> — MakeABox laser cutting templates of boxes that snap together.
 
-* <https://equilibris.ai> — AI first approach to Taxes and Real Time assistance to the businesses and individuals. Developed a custom programming language for represending Tax forms and returns in Rust. 
+* <https://equilibris.ai> — AI first approach to Taxes and Real Time assistance to businesses and individuals. Developed a custom programming language for represending Tax forms and returns in Rust. 
 
-* <https://dry-cli.tools> - three Rube gems extending `dry-cli` in important ways
+* <https://dry-cli.tools> - three Ruby gems extending `dry-cli` in key ways necessary for an effective CLI tooling
 
 * <https://qualified.at> — a mini SaaS application for lead qualification and work price estimation. Uses AI to help the user build the form based on their criteria, then shows the form in a copilot where the lead can fill out a free text which is then parsed jnto structured answers to future questions, shortening the experience dramatically (18 questions -> to 5-6).
 
 * <https://sopsy-cli.dev> — a Rust based CLI utility for encrypting dev secrets and decrypting them on the fly. Maintains a cryptographically signed chain of who can decrypt, requiring request and approval by an existing team member. Its built as a wrapper around SOAP and `age` and the `age` plugin for Apple that stores private keys in the hardware chip called "Secure Enclave" and requires thumb to decrypt.
 
-* <https://bashmatic.dev> — BASH framework with over 900 DSL-like functions. 
+* <https://bashmatic.dev> — BASH framework with over 900 DSL-like functions. Used for dev setup scripts and installers that provide actionable feedback.
 
 ---
 
@@ -160,9 +161,6 @@ A few projects that reflect the range of work I enjoy (the top ones are most rec
 - [bashmatic](https://bashmatic.dev)  
   Bashmatic — 900+ DSL functions written in BASH for readable script feedback, terminal graphics, headers, and more.
 
-- [inquirex Family of Gems and NPMJS modules](https://github.com/inquirex)  
-  A series of MIT-licensed modules for creating sophisticated forms that mulitple rendering formats such as Web, TUI, and suppost a number of LLM keywords.
-
 You can also browse the full collection of public gems written in Ruby here:
 - [RubyGems profile](https://rubygems.org/profiles/kigster)
 
@@ -177,13 +175,6 @@ I write and speak about:
 - developer productivity
 - DevOps and release engineering
 - applied AI systems
-
-Some links:
-- [Inquirex](https://github.com/inquirex), and what's wrong with today's [https://kig.re/speaking?talk=2026.inquirex](https://kig.re/speaking?talk=2026.inquirex)
-- [Conference Talks](https://kig.re/speaking) 
-- [Tech Blog](https://kig.re)
-- [SlideShare](https://www.slideshare.net/kigster/)
-- [LinkedIn](link)
 
 ---
 
