@@ -18,7 +18,9 @@
 
 ## Recent Projects
 
-* <https://makeabox.ai> make laser cutting templates of boxes that snap together 
+* <https://makeabox.io> — MakeABox laser cutting templates of boxes that snap together.
+
+* <https://equilibris.ai> — AI first approach to Taxes and Real Time assistance to the businesses and individuals. Developed a custom programming language for represending Tax forms and returns in Rust. 
 
 * <https://dry-cli.tools> - three Rube gems extending `dry-cli` in important ways
 
