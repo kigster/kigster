@@ -16,6 +16,18 @@
   <a href="https://slideshare.net/kigster/">SlideShare</a>
 </p>
 
+## Recent Projects
+
+* <https://makeabox.ai> make laser cutting templates of boxes that snap together 
+
+* <https://dry-cli.tools> - three Rube gems extending `dry-cli` in important ways
+
+* <https://qualified.at> — a mini SaaS application for lead qualification and work price estimation. Uses AI to help the user build the form based on their criteria, then shows the form in a copilot where the lead can fill out a free text which is then parsed jnto structured answers to future questions, shortening the experience dramatically (18 questions -> to 5-6).
+
+* <https://sopsy-cli.dev> — a Rust based CLI utility for encrypting dev secrets and decrypting them on the fly. Maintains a cryptographically signed chain of who can decrypt, requiring request and approval by an existing team member. Its built as a wrapper around SOAP and `age` and the `age` plugin for Apple that stores private keys in the hardware chip called "Secure Enclave" and requires thumb to decrypt.
+
+* <https://bashmatic.dev> — BASH framework with over 900 DSL-like functions. 
+
 ---
 
 ## About Me
