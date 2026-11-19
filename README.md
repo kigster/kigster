@@ -24,6 +24,8 @@ CTO @ [Equilibris Inc](https://eqiulibris.ai), taking on the US Taxation industr
 
 ## Recent Projects
 
+* <https://openlanes.ai> — Software Factory that works on your laptop building multiple features in parallel. Connect additional nodes via `$REDIS_URL` that's shared between the two.
+
 * <https://makeabox.io> — MakeABox laser cutting templates of boxes that snap together.
 
 * <https://equilibris.ai> — AI first approach to Taxes and Real Time assistance to businesses and individuals. Developed a custom programming language for represending Tax forms and returns in Rust. 
