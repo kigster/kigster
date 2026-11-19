@@ -17,6 +17,11 @@
   <a href="https://slideshare.net/kigster/">SlideShare</a>
 </p>
 
+## Currently
+
+CTO @ [Equilibris Inc](https://eqiulibris.ai), taking on the US Taxation industry.
+
+
 ## Recent Projects
 
 * <https://makeabox.io> — MakeABox laser cutting templates of boxes that snap together.
