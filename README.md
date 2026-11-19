@@ -19,7 +19,8 @@
 
 ## Currently
 
-CTO @ [Equilibris Inc](https://eqiulibris.ai), taking on the US Taxation industry.
+CTO @ [Equilibris Inc](https://equilibris.ai), taking on the US Taxation industry.
+
 
 
 ## Recent Projects
